@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD37E24722A23CA000A18A9C /* BrownBearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD37E24622A23CA000A18A9C /* BrownBearButton.swift */; };
+		BD37E24922A23CAF00A18A9C /* BlackBearButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD37E24822A23CAF00A18A9C /* BlackBearButton.swift */; };
 		BDE8F3772288E85C00849D7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE8F3762288E85C00849D7E /* AppDelegate.swift */; };
 		BDE8F3792288E85C00849D7E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDE8F3782288E85C00849D7E /* ViewController.swift */; };
 		BDE8F37C2288E85C00849D7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDE8F37A2288E85C00849D7E /* Main.storyboard */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD37E24622A23CA000A18A9C /* BrownBearButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrownBearButton.swift; sourceTree = "<group>"; };
+		BD37E24822A23CAF00A18A9C /* BlackBearButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackBearButton.swift; sourceTree = "<group>"; };
 		BDE8F3732288E85C00849D7E /* Bear_ID.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bear_ID.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BDE8F3762288E85C00849D7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BDE8F3782288E85C00849D7E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +104,8 @@
 			children = (
 				BDE8F3762288E85C00849D7E /* AppDelegate.swift */,
 				BDE8F3782288E85C00849D7E /* ViewController.swift */,
+				BD37E24622A23CA000A18A9C /* BrownBearButton.swift */,
+				BD37E24822A23CAF00A18A9C /* BlackBearButton.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -181,6 +187,8 @@
 			files = (
 				BDE8F3A822893B9C00849D7E /* ProgressHUD.m in Sources */,
 				BDE8F3792288E85C00849D7E /* ViewController.swift in Sources */,
+				BD37E24722A23CA000A18A9C /* BrownBearButton.swift in Sources */,
+				BD37E24922A23CAF00A18A9C /* BlackBearButton.swift in Sources */,
 				BDE8F3772288E85C00849D7E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
